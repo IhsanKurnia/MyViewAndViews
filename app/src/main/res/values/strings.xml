@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyViewAndViews</string>
+    //text view
+    <string name="content_text">Aston Martin DB11 merupakan edisi terbaru dari Aston Martin seri DB11. DB11 rilisan 2019 ini menampilkan salah satu mobil dengan tenaga dan gaya yang mengesankan.
+        DB11 merupakan mobil dari Aston Martin yang merupakan suksesi Aston Martin DB9 yang berakhir di tahun 2016. Terdapat beberapa perubahan dan penambahan yang membuat DB11 memang berbeda dari pendahulunya.
+        DB11 tersedia dalam dua mesin berbeda, yaitu V8 dan V12. Ada juga edisi khusus yang disebut Volante. Beberapa upgrade diberikan dan dipasang di ruang kabin DB11 untuk membuatnya sesuai dan sejalan
+        dengan modernitas zaman. Beberapa upgrade dan peningkatan tersebut terjadi di bagian material interior dan perangkat elektronik, termasuk didalamnya sistem informasi dan media hiburan.</string>
+
+    //Kapasitas mesin
+    <string name="content_mesin">
+        Kapasitas Mesin : 5200cc\n
+        Jumlah Silinder : 12\n
+        Jumlah Katup    : 48
+    </string>
+
+    //Performa
+    <string name="content_performa">
+        Maksimal Tenaga : 715/6500\n
+        Torsi           : 900/1800-5000\n
+        Bahan Bakar     : Bensin\n
+        Kapasitas Bahan Bakar : 78 Liter
+    </string>
+
+    //Ban Dan Velg
+    <string name="content_ban">
+        Lebar       : 295\n
+        Aspek Rasio : 35\n
+        Diameter    : R20
+    </string>
+    <string name="dummy_value">Rp.4,33 Miliyar</string>
+    <string name="harga_otr">Harga OTR di Jakarta</string>
+    <string name="aston_martin">Aston Martin DB11</string>
+    <string name="price">Harga : Rp. 4,33 Miliyar - Rp 7,7 Miliyar</string>
+    <string name="mesin">Mesin</string>
+    <string name="spesifikasi_mesin">Spesifikasi Mesin</string>
+    <string name="Photos">6 Photos</string>
+    <string name="performa">Performa</string>
+    <string name="spesifikasi_mobil">Spesifikasi Mobil</string>
+    <string name="ban_velg"><![CDATA[Ban & Velg]]></string>
+    <string name="di_jual_oleh">Di Jual Oleh</string>
+    <string name="name">Ihsan Kurnia</string>
+    <string name="sales">Sales</string>
+    <string name="sales_marketing">Sales Marketing</string>
+    <string name="preorder">Preorder</string>
+
+</resources>
